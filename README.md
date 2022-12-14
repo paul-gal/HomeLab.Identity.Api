@@ -1,0 +1,1 @@
+# HomeLab.Core6.Template
